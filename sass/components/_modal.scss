@@ -105,10 +105,11 @@
             border-color: $active-color;
         }
 
-        &__feedback-wrapper {
-            margin-top: 4px;
-            margin-bottom: 20px;
-        }
+    }
+
+    &__feedback-wrapper {
+        margin-top: 4px;
+        margin-bottom: 20px;
     }
 
     &__textarea {

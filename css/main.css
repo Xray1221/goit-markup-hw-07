@@ -409,6 +409,7 @@ body {
   border-radius: 4px;
   padding: 10px 32px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  letter-spacing: 0.06em;
 }
 .service__button:hover {
   background-color: #188CE8;
@@ -925,7 +926,7 @@ body {
   outline-width: 0;
   border-color: #2196F3;
 }
-.modal__input__feedback-wrapper {
+.modal__feedback-wrapper {
   margin-top: 4px;
   margin-bottom: 20px;
 }
