@@ -13,4 +13,12 @@
     &__contact {
         margin-left: auto;
     }
+
+    &__logo {
+        @extend .logo;
+        &--black {
+            color: $general-text-color;
+        }
+    }
+
 }
